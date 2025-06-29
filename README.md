@@ -17,7 +17,7 @@ A clean and simple Django web application that displays real-time weather data u
   weather_project/<br>
 │                <br>
 ├── templates/    <br>
-│   └── index.html    <br>       
+│   └── index.html      
 │                   <br>
 ├── static/        <br>
 │   └── style.css      <br>      
@@ -29,14 +29,14 @@ A clean and simple Django web application that displays real-time weather data u
 └── requirements.txt        <br>
 
 
-🧱 Tech Stack
+<h2> 🧱 Tech Stack </h2>
 
 Backend: Python, Django <br>
 Frontend: HTML, CSS (custom), Jinja2 templating <br>
 API: OpenWeatherMap    <br>
 
 
-🌐 How It Works
+<h2> 🌐 How It Works </h2>
 
 User submits a city name.   <br>
 App sends a request to OpenWeatherMap Geocoding API to get lat and lon.  <br>
