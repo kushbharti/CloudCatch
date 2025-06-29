@@ -20,10 +20,10 @@ A clean and simple Django web application that displays real-time weather data u
 │   └── index.html      
 │                   <br>
 ├── static/        <br>
-│   └── style.css      <br>      
+│   └── style.css        
 │                  <br>
 ├── weather/  <br>
-│   └── views.py      <br>
+│   └── views.py      
 │            <br>
 ├── manage.py      <br>
 └── requirements.txt        <br>
