@@ -2,7 +2,7 @@
 
 A clean and simple Django web application that displays real-time weather data using the OpenWeatherMap API. Users can search by city name and view temperature, humidity, wind speed, and climate conditions.
 
-## 🚀 Features
+<h2>## 🚀 Features </h2>
 
 - 🔍 Search weather by city name
 - 🌐 Real-time weather using OpenWeatherMap API
@@ -12,35 +12,35 @@ A clean and simple Django web application that displays real-time weather data u
 - 📦 Built with Django and Python
 
 
-📁 Project Structure
+<h2> 📁 Project Structure </h2>
 
-  weather_project/
-│
-├── templates/
-│   └── index.html               # Main UI page
-│
-├── static/
-│   └── style.css                # Custom styling
-│
-├── weather/
-│   └── views.py                 # Handles API call and data
-│
-├── manage.py
-└── requirements.txt
+  weather_project/<br>
+│                <br>
+├── templates/    <br>
+│   └── index.html    <br>       
+│                   <br>
+├── static/        <br>
+│   └── style.css      <br>      
+│                  <br>
+├── weather/  <br>
+│   └── views.py      <br>
+│            <br>
+├── manage.py      <br>
+└── requirements.txt        <br>
 
 
 🧱 Tech Stack
 
-Backend: Python, Django
-Frontend: HTML, CSS (custom), Jinja2 templating
-API: OpenWeatherMap
+Backend: Python, Django <br>
+Frontend: HTML, CSS (custom), Jinja2 templating <br>
+API: OpenWeatherMap    <br>
 
 
 🌐 How It Works
 
-User submits a city name.
-App sends a request to OpenWeatherMap Geocoding API to get lat and lon.
-Then fetches weather data using the latitude and longitude.
-Parses and displays temperature, humidity, wind speed, and climate info.
+User submits a city name.   <br>
+App sends a request to OpenWeatherMap Geocoding API to get lat and lon.  <br>
+Then fetches weather data using the latitude and longitude. <br>
+Parses and displays temperature, humidity, wind speed, and climate info.<br>
 
 
