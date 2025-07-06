@@ -2,7 +2,12 @@
 
 A clean and simple Django web application that displays real-time weather data using the OpenWeatherMap API. Users can search by city name and view temperature, humidity, wind speed, and climate conditions.
 
-<h2>## 🚀 Features </h2>
+![Screenshot 2025-07-06 130556](https://github.com/user-attachments/assets/f5860138-4ac3-49f6-bd42-6992790d406b)<br><br>
+![Screenshot 2025-07-06 130628](https://github.com/user-attachments/assets/3ff08ca4-97d3-4789-a95a-92b8539221be)<br><br>
+![Uploading Screenshot 2025-07-06 130652.png…]()<br> <h2 align='center'>Interface </h1> <br>
+
+
+<h1>🚀 Features </h1>
 
 - 🔍 Search weather by city name
 - 🌐 Real-time weather using OpenWeatherMap API
