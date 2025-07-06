@@ -8,7 +8,7 @@ A clean and simple Django web application that displays real-time weather data u
 <br> <h2 align='center'>Interface </h1> <br>
 
 
-<h1>🚀 Features </h1>`
+<h1>🚀 Features </h1>
 
 - 🔍 Search weather by city name
 - 🌐 Real-time weather using OpenWeatherMap API
