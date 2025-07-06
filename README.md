@@ -4,10 +4,11 @@ A clean and simple Django web application that displays real-time weather data u
 
 ![Screenshot 2025-07-06 130556](https://github.com/user-attachments/assets/f5860138-4ac3-49f6-bd42-6992790d406b)<br><br>
 ![Screenshot 2025-07-06 130628](https://github.com/user-attachments/assets/3ff08ca4-97d3-4789-a95a-92b8539221be)<br><br>
-![Uploading Screenshot 2025-07-06 130652.png…]()<br> <h2 align='center'>Interface </h1> <br>
+![Screenshot 2025-07-06 130652](https://github.com/user-attachments/assets/d27bd8c8-b3c2-4e8f-8a22-edbf6e90af8a)
+<br> <h2 align='center'>Interface </h1> <br>
 
 
-<h1>🚀 Features </h1>
+<h1>🚀 Features </h1>`
 
 - 🔍 Search weather by city name
 - 🌐 Real-time weather using OpenWeatherMap API
